@@ -8,6 +8,5 @@ namespace Proje1
 {
     class Sozcuk
     {
-        /* ENES DENEME */
     }
 }
